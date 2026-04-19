@@ -5,5 +5,5 @@ tested version: 6.5.18
 usage:
 - download [APKEditor](https://github.com/REAndroid/APKEditor) and [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) and put them in the `jars` directory.
 - download an APK of the songsterr app
-- run `node index.js <apk_path>` (e.g. `node index.js songsterr.apk`)
+- run `node index.js <apk_path>` (e.g. `node index.js songsterr.apk`) APKM works too
 - the patched APK will be created in the current directory with '_patched' added to the apk name
